@@ -1,0 +1,1 @@
+module.exports.mobileCategory=require("./user.validation");
